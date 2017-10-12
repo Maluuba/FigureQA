@@ -1,0 +1,19 @@
+# CATEGORICAL
+0, min
+1, max
+2, less
+3, greater
+4, low median
+5, high median
+
+
+# CONTINUOUS/LINE
+6, min auc
+7, max auc
+8, smoothest
+9, roughest
+10, global min
+11, global max
+12, less
+13, greater
+14, intersect

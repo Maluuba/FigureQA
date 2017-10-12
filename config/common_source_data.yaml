@@ -1,0 +1,10 @@
+figure_height_px: 400
+figure_width_ratio_range: [1.0, 2.0]
+figure_min_width_side_legend: 1.33
+draw_gridlines_pr: 0.5
+draw_legend_pr: 1.0
+legend_inside_pr: 0.5
+legend_border_pr: 0.5
+legend_label_font_sizes: ['8pt', '9pt', '10pt', '11pt']
+legend_horizontal_pr: 0.5
+legend_horizontal_max_classes: 3

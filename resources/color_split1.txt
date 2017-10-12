@@ -1,0 +1,50 @@
+Lime Green, #32CD32
+Deep Sky Blue, #00BFFF
+Web Gray, #808080
+Dark Gray, #A9A9A9
+Salmon, #FA8072
+Dark Cyan, #008B8B
+Dark Magenta, #8B008B
+Magenta, #FF00FF
+Light Sky Blue, #87CEFA
+Yellow Green, #9ACD32
+Slate, #708090
+Medium Periwinkle, #7B68EE
+Web Green, #008000
+Cadet Blue, #5F9EA0
+Medium Mint, #00FA9A
+Violet, #EE82EE
+Dodger Blue, #1E90FF
+Tan, #D2B48C
+Navy Blue, #000080
+Lawn Green, #7CFC00
+Mint, #00FF7F
+Dark Periwinkle, #483D8B
+Rosy Brown, #BC8F8F
+Sky Blue, #87CEEB
+Indigo, #4B0082
+Light Coral, #F08080
+Chocolate, #D2691E
+Dark Khaki, #BDB76B
+Dim Gray, #696969
+Burlywood, #DEB887
+Chartreuse, #7FFF00
+Web Maroon, #7F0000
+Black, #000000
+Teal, #008080
+Dark Olive, #556B2F
+Web Purple, #7F007F
+Dark Slate, #2F4F4F
+Rebecca Purple, #663399
+Sandy Brown, #F4A460
+Dark Seafoam, #8FBC8F
+Hot Pink, #FF69B4
+Olive Drab, #6B8E23
+Sienna, #A0522D
+Green, #00FF00
+Dark Violet, #9400D3
+Light Salmon, #FFA07A
+Medium Turquoise, #48D1CC
+Yellow, #FFFF00
+Deep Pink, #FF1493
+Indian Red, #CD5C5C

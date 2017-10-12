@@ -1,0 +1,50 @@
+working_directory: figureqa_generation
+
+destination_directory: figureqa_final
+
+common_config_yaml: config/common_source_data.yaml
+
+colors: resources/x11_colors_refined.txt
+
+splits:
+  - name: figureqa-train1
+    partitions:
+      - name: train1_1
+        data_config_yaml: config/color_scheme1_source_data.yaml
+        seed: 123
+        vbar: 20000
+        hbar: 20000
+        pie: 20000
+        line: 0
+        dot_line: 0
+      - name: train1_2
+        data_config_yaml: config/color_scheme1_source_data.yaml
+        seed: 456
+        vbar: 0
+        hbar: 0
+        pie: 0
+        line: 20000
+        dot_line: 20000
+
+  - name: figureqa-validation1
+    partitions:
+      - name: validation1
+        data_config_yaml: config/color_scheme1_source_data.yaml
+        seed: 654
+        vbar: 4000
+        hbar: 4000
+        pie: 4000
+        line: 4000
+        dot_line: 4000
+
+  - name: figureqa-validation2
+    partitions:
+      - name: validation2
+        data_config_yaml: config/color_scheme2_source_data.yaml
+        seed: 321
+        vbar: 4000
+        hbar: 4000
+        pie: 4000
+        line: 4000
+        dot_line: 4000
+        

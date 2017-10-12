@@ -1,0 +1,50 @@
+Aqua, #7FFFD4
+Forest Green, #228B22
+Blue, #0000FF
+Dark Salmon, #E9967A
+Violet Red, #C71585
+Dark Orange, #FF8C00
+Brown, #A52A2A
+Cyan, #00FFFF
+Crimson, #DC143C
+Dark Turquoise, #00CED1
+Steel Blue, #4682B4
+Turquoise, #40E0D0
+Seafoam, #2E8B57
+Purple, #A020F0
+Gray, #BEBEBE
+Dark Blue, #00008B
+Dark Red, #8B0000
+Light Seafoam, #20B2AA
+Light Green, #90EE90
+Dark Orchid, #9932CC
+Blue Violet, #8A2BE2
+Medium Orchid, #BA55D3
+Maroon, #B03060
+Royal Blue, #4169E1
+Red, #FF0000
+Medium Purple, #9370DB
+Olive, #808000
+Peru, #CD853F
+Orange, #FFA500
+Saddle Brown, #8B4513
+Dark Green, #006400
+Orchid, #DA70D6
+Midnight Blue, #191970
+Dark Gold, #B8860B
+Medium Blue, #0000CD
+Coral, #FF7F50
+Bubblegum, #DB7093
+Green Yellow, #ADFF2F
+Light Slate, #778899
+Tomato, #FF6347
+Periwinkle, #6A5ACD
+Gold, #DAA520
+Medium Seafoam, #3CB371
+Khaki, #F0E68C
+Firebrick, #B22222
+Orange Red, #FF4500
+Cornflower, #6495ED
+Pale Green, #98FB98
+Medium Aqua, #66CDAA
+Light Gold, #FFD700

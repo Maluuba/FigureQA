@@ -1,0 +1,36 @@
+vbar_categorical:
+  y_range: [0, 99]
+  n_points_range: [2, 10]
+  x_distn: ["linear"]
+  shape: ["random", "random", "random", "random", "linear_inc", "linear_dec", "cluster"]
+  color_sources: ["resources/color_split2.txt"]
+
+hbar_categorical:
+  y_range: [0, 99]
+  n_points_range: [2, 10]
+  x_distn: ["linear"]
+  shape: ["random", "random", "random", "random", "linear_inc", "linear_dec", "cluster"]
+  color_sources: ["resources/color_split1.txt"]
+
+line:
+  x_range: [0, 100]
+  y_range: [0, 100]
+  n_points_range: [5, 20]
+  x_distn: ["linear"]
+  shape: ["linear", "linear_with_noise", "quadratic"]
+  n_classes_range: [2, 7]
+  color_sources: ["resources/color_split2.txt"]
+  solid_pr: 0.5
+
+dot_line:
+  x_range: [0, 100]
+  y_range: [0, 100]
+  n_points_range: [5, 20]
+  x_distn: ["linear"]
+  shape: ["linear", "linear_with_noise", "quadratic"]
+  n_classes_range: [2, 7]
+  color_sources: ["resources/color_split1.txt"]
+
+pie:
+  color_sources: ["resources/color_split2.txt"]
+  n_classes_range: [2, 7]
