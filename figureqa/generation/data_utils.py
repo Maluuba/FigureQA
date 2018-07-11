@@ -4,6 +4,8 @@ from __future__ import division
 import copy
 import random
 
+import numpy as np
+
 
 # Used in modified BokehJS
 ID_MAP = {
