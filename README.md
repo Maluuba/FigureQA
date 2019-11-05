@@ -1,6 +1,6 @@
 # FigureQA
 
-Code to generate the FigureQA dataset, see https://datasets.maluuba.com/FigureQA.
+Code to generate the FigureQA dataset. [The dataset is available for download here](https://www.microsoft.com/en-us/research/project/figureqa-dataset/).
 
 ## Data Generation
 
